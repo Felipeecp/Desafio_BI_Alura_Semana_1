@@ -32,5 +32,5 @@ O nosso cliente disponibilizou 4 bases de dados sobre logística no formato CSV 
 <br>
 <h2>Resultado</h2>
     <p>Acesse o dashboard pelo <a href="https://app.powerbi.com/view?r=eyJrIjoiNTIwZjk3NTEtNGRlYS00YmM2LWIxYjMtMTIxZDM3YjRmMDVhIiwidCI6IjIyMWNkOWNjLTZmYTctNDEyNi05NjY2LTRjMGViYWY3ZDk4MyJ9&pageName=ReportSection" target="_blank">link</a></p>
-    <img src="imgs/imgDashboard.png" width="500" position="center"/></a>
+    <img src="imgs/imgDashboard.png" position="center"/></a>
 
